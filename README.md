@@ -9,7 +9,6 @@ This project analyzes survey data of credit card users to understand spending pa
 - credit_card_analysis.ipynb → notebook code
 - README.md → project details
 
----
 
 ## 📊 Analysis Includes
 - Age distribution of credit card users
