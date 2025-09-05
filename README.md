@@ -2,7 +2,6 @@
 
 This project analyzes survey data of credit card users to understand spending patterns, credit limits, and demographic insights.
 
----
 
 ## 📂 Project Structure
 - credit_card.csv → dataset
@@ -15,7 +14,6 @@ This project analyzes survey data of credit card users to understand spending pa
 - Gender-based spending & credit limit comparison
 - Correlation heatmap of financial features
 
----
 
 ## 📖 Dataset
 Dataset: [Credit Card Users Dataset](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
