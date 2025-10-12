@@ -2,7 +2,6 @@
 
 This project analyzes survey data of credit card users to understand spending patterns, credit limits, and demographic insights.
 
-
 ## 📂 Project Structure
 - credit_card.csv → dataset
 - credit_card_analysis.ipynb → notebook code
