@@ -1,4 +1,4 @@
-# 💳 Credit Card Survey Analysis
+## 💳 Credit Card Survey Analysis
 
 This project analyzes survey data of credit card users to understand spending patterns, credit limits, and demographic insights.
 
