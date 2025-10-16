@@ -11,7 +11,7 @@ This project analyzes survey data of credit card users to understand spending pa
 ## 📊 Analysis Includes
 - Age distribution of credit card users
 - Gender-based spending & credit limit comparison
-- Correlation heatmap of financial featuress
+- Correlation heatmap of financial features
 
 
 ## 📖 Dataset
