@@ -15,4 +15,4 @@ This project analyzes survey data of credit card users to understand spending pa
 
 
 ## 📖 Dataset
-Dataset: [Credit Card Users Dataset](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata).sdsau
+Dataset: [Credit Card Users Dataset](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata).sdsa
